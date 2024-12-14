@@ -74,19 +74,19 @@ It operates as a DNS server that re-routes tracking domains to a â€œblack holeâ€
 To install with `curl` run the following command:
 
 ```sh
-curl -s -S -L https://raw.githubusercontent.com/AdguardTeam/AdGuardHome/master/scripts/install.sh | sh -s -- -v
+curl -s -S -L https://raw.githubusercontent.com/lupael/adguardhome/master/scripts/install.sh | sh -s -- -v
 ```
 
 To install with `wget` run the following command:
 
 ```sh
-wget --no-verbose -O - https://raw.githubusercontent.com/AdguardTeam/AdGuardHome/master/scripts/install.sh | sh -s -- -v
+wget --no-verbose -O - https://raw.githubusercontent.com/lupael/adguardhome/master/scripts/install.sh | sh -s -- -v
 ```
 
 To install with `fetch` run the following command:
 
 ```sh
-fetch -o - https://raw.githubusercontent.com/AdguardTeam/AdGuardHome/master/scripts/install.sh | sh -s -- -v
+fetch -o - https://raw.githubusercontent.com/lupael/adguardhome/master/scripts/install.sh | sh -s -- -v
 ```
 
 The script also accepts some options:
