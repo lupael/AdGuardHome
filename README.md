@@ -214,7 +214,7 @@ You will need this to build AdGuard Home:
 Open your terminal and execute these commands:
 
 ```sh
-git clone https://github.com/AdguardTeam/AdGuardHome
+git clone https://github.com/lupael/AdGuardHome
 cd AdGuardHome
 make
 ```
@@ -318,13 +318,13 @@ There are three options how you can install an unstable version:
    Script to install a beta version:
 
    ```sh
-   curl -s -S -L https://raw.githubusercontent.com/AdguardTeam/AdGuardHome/master/scripts/install.sh | sh -s -- -c beta
+   curl -s -S -L https://raw.githubusercontent.com/lupael/AdGuardHome/master/scripts/install.sh | sh -s -- -c beta
    ```
 
    Script to install an edge version:
 
    ```sh
-   curl -s -S -L https://raw.githubusercontent.com/AdguardTeam/AdGuardHome/master/scripts/install.sh | sh -s -- -c edge
+   curl -s -S -L https://raw.githubusercontent.com/lupael/AdGuardHome/master/scripts/install.sh | sh -s -- -c edge
    ```
 
 [wiki-platf]: https://github.com/AdguardTeam/AdGuardHome/wiki/Platforms
