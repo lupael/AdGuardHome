@@ -4,8 +4,8 @@ import (
 	"net/http"
 	"runtime"
 
-	"github.com/AdguardTeam/AdGuardHome/internal/aghhttp"
-	"github.com/AdguardTeam/AdGuardHome/internal/version"
+	"github.com/lupael/AdGuardHome/internal/aghhttp"
+	"github.com/lupael/AdGuardHome/internal/version"
 )
 
 // System Handlers
