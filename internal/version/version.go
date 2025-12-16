@@ -97,7 +97,7 @@ func fmtModule(m *debug.Module) (formatted string) {
 
 // Constants defining the headers of build information message.
 const (
-	vFmtAGHHdr       = "AdGuard Home"
+	vFmtAGHHdr       = "ISPbills DNS"
 	vFmtVerHdr       = "Version: "
 	vFmtSchemaVerHdr = "Schema version: "
 	vFmtChanHdr      = "Channel: "
