@@ -8,10 +8,10 @@ import (
 	"log/slog"
 	"net/http"
 
-	"github.com/AdguardTeam/AdGuardHome/internal/version"
-	"github.com/AdguardTeam/golibs/httphdr"
-	"github.com/AdguardTeam/golibs/log"
-	"github.com/AdguardTeam/golibs/logutil/slogutil"
+	"github.com/lupael/AdGuardHome/internal/version"
+	"github.com/lupael/golibs/httphdr"
+	"github.com/lupael/golibs/log"
+	"github.com/lupael/golibs/logutil/slogutil"
 )
 
 // RegisterFunc is the function that sets the handler to handle the URL for the
