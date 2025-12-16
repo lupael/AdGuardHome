@@ -17,8 +17,8 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/AdguardTeam/AdGuardHome/internal/next/agh"
-	"github.com/AdguardTeam/AdGuardHome/internal/next/dnssvc"
+	"github.com/lupael/AdGuardHome/internal/next/agh"
+	"github.com/lupael/AdGuardHome/internal/next/dnssvc"
 	"github.com/AdguardTeam/golibs/errors"
 	"github.com/AdguardTeam/golibs/netutil"
 	"github.com/AdguardTeam/golibs/netutil/httputil"
