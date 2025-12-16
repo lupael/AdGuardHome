@@ -9,7 +9,7 @@ import (
 	// See https://github.com/AdguardTeam/AdGuardHome/issues/6758
 	_ "time/tzdata"
 
-	"github.com/AdguardTeam/AdGuardHome/internal/home"
+	"github.com/lupael/AdGuardHome/internal/home"
 )
 
 // Embed the prebuilt client here since we strive to keep .go files inside the
